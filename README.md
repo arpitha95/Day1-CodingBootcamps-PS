@@ -12,7 +12,7 @@ Acquiring basic knowledge on C Programming
   <h2>Hellow World Program </h2>
   <p><b>  Program 1: </b> Simple Printf Statement </h2>
   <h2> Scanf function </h2>
- <b> Program 5 </b> :- The given C program doesn&#39;t work as expected. You need to correct the below program and make it executable.
+ <b> Program 2 </b> :- The given C program doesn&#39;t work as expected. You need to correct the below program and make it executable.
  (Note: It should able to read an integer from the user and print it)
 
   <hr>
