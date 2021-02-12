@@ -9,7 +9,7 @@ Acquiring basic knowledge on C Programming
   <li> Problem analysis and logical thinking </li>
   <li> Intoduction about Git and Github </li>
   </ul>
-  <h2>Hellow World Program </h2>
+  <h2>Hello World Program </h2>
   <p><b>  Program 1: </b> Simple Printf Statement </h2>
   <h2> Scanf function </h2>
  <b> Program 2 </b> :- The given C program doesn&#39;t work as expected. You need to correct the below program and make it executable.
